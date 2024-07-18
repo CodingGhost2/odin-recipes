@@ -1,0 +1,70 @@
+div{
+    border-color:black;
+    border-radius:5%;
+    text-align:center;
+}
+
+
+ul{
+    width:250px;
+    height:30px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:0%;
+    text-align:left;
+
+
+}
+
+.steps ol{
+    width:321px;
+    height:300px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    padding-top:0%;
+
+}
+
+.steps li{
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:5px;
+    text-align:left;
+    padding:0%;
+    
+
+}
+
+html{
+    background-color:tan;
+}
+
+h1{
+    text-align:center;
+    color:bisque;
+}
+
+.orange{
+    background-color:orange;
+}
+
+
+.ingredients{
+    text-align:center;
+}
+
+a{
+    vertical-align:bottom;
+}
+
+.icecream{
+    background-color:azure;
+}
+.main1{
+    color:bisque;
+}
+.main3{
+    color:black;
+
+}
